@@ -53,3 +53,6 @@ Feel free to:
 * 🤝 Reach out for collaboration
 
 > *“Learning by building, improving by sharing.”*
+
+### 🛠️ Skills & Tools
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,docker,dart,python,fastapi,figma,java,spring,arduino,mysql,postgres,nextjs,nodejs,js,tailwind,css,react,redux,vercel,sass,ts" /> </a> </p>
